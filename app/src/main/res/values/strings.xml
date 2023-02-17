@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ZebraConnector</string>
+    <string name="instruction">Scan barcode to pair your cordless scanner to this app.</string>
+    <string name="perm_desc_service_launch_permission">Permission to launch Scanner Control Application Virtual Tether service from other application/components</string>
+    <string name="perm_label_service_launch_permission">Service launch permission</string>
+    <string name="perm_desc_activity_launch_permission">Permission to launch Scanner Control Application from other application/components</string>
+    <string name="perm_label_activity_launch_permission">Activity launch permission</string>
+    <string name="close_button">button close</string>
+    <string name="status_searching">Searching for device</string>
+    <string name="toolbar_title">title</string>
+    <string name="toolbar_subtitle">sub title</string>
+
+</resources>
